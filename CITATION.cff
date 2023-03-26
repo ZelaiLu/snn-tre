@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "Se usi questo software citalo in basso."
+message: "Se usi questo software citalo."
 authors:
   - family-names: Manias
     given-names: Alessandro
-title: "Librerie e jupiter notebooks per la mia tesi triennale"
+title: "Librerie e jupyter notebooks per la mia tesi triennale"
 date-released: 2023-03-26
