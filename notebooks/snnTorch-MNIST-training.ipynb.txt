@@ -1,0 +1,1053 @@
+Epoch  0  Iteration:  0
+tensor([551.9994], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 27.15%
+Epoch  0  Iteration:  1
+tensor([412.0614], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 48.83%
+Epoch  0  Iteration:  2
+tensor([358.9297], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 61.52%
+Epoch  0  Iteration:  3
+tensor([334.2766], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 71.09%
+Epoch  0  Iteration:  4
+tensor([313.9788], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 72.66%
+Epoch  0  Iteration:  5
+tensor([300.6126], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 77.34%
+Epoch  0  Iteration:  6
+tensor([288.2823], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 77.73%
+Epoch  0  Iteration:  7
+tensor([265.4679], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 78.52%
+Epoch  0  Iteration:  8
+tensor([251.8962], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.01%
+Epoch  0  Iteration:  9
+tensor([252.3218], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 81.05%
+Epoch  0  Iteration:  10
+tensor([245.1407], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 82.42%
+Epoch  0  Iteration:  11
+tensor([232.7434], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 80.66%
+Epoch  0  Iteration:  12
+tensor([228.6934], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 82.42%
+Epoch  0  Iteration:  13
+tensor([230.4676], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 80.47%
+Epoch  0  Iteration:  14
+tensor([201.2894], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.20%
+Epoch  0  Iteration:  15
+tensor([208.5535], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.13%
+Epoch  0  Iteration:  16
+tensor([188.8799], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 84.57%
+Epoch  0  Iteration:  17
+tensor([191.3807], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 84.57%
+Epoch  0  Iteration:  18
+tensor([182.6478], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.79%
+Epoch  0  Iteration:  19
+tensor([184.0743], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.59%
+Epoch  0  Iteration:  20
+tensor([186.9993], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.79%
+Epoch  0  Iteration:  21
+tensor([161.0788], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.01%
+Epoch  0  Iteration:  22
+tensor([160.4996], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 84.96%
+Epoch  0  Iteration:  23
+tensor([145.4230], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.59%
+Epoch  0  Iteration:  24
+tensor([154.9763], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.33%
+Epoch  0  Iteration:  25
+tensor([149.0000], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.55%
+Epoch  0  Iteration:  26
+tensor([146.0000], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  0  Iteration:  27
+tensor([142.4955], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  28
+tensor([161.4044], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.16%
+Epoch  0  Iteration:  29
+tensor([157.5045], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.79%
+Epoch  0  Iteration:  30
+tensor([155.0818], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.94%
+Epoch  0  Iteration:  31
+tensor([128.4413], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  32
+tensor([131.4655], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  0  Iteration:  33
+tensor([181.4986], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.79%
+Epoch  0  Iteration:  34
+tensor([166.4942], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.16%
+Epoch  0  Iteration:  35
+tensor([137.1865], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.89%
+Epoch  0  Iteration:  36
+tensor([139.5766], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  37
+tensor([176.5316], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.13%
+Epoch  0  Iteration:  38
+tensor([182.0670], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.13%
+Epoch  0  Iteration:  39
+tensor([161.3096], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.35%
+Epoch  0  Iteration:  40
+tensor([196.1834], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.79%
+Epoch  0  Iteration:  41
+tensor([159.3738], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  42
+tensor([170.6417], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 84.38%
+Epoch  0  Iteration:  43
+tensor([156.4449], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.72%
+Epoch  0  Iteration:  44
+tensor([153.0368], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.50%
+Epoch  0  Iteration:  45
+tensor([166.3970], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  46
+tensor([166.8606], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  47
+tensor([176.6000], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.72%
+Epoch  0  Iteration:  48
+tensor([163.6338], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.50%
+Epoch  0  Iteration:  49
+tensor([152.2892], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  0  Iteration:  50
+tensor([144.8176], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  51
+tensor([220.2380], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 83.98%
+Epoch  0  Iteration:  52
+tensor([162.7497], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  0  Iteration:  53
+tensor([145.6551], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.70%
+Epoch  0  Iteration:  54
+tensor([143.0917], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.50%
+Epoch  0  Iteration:  55
+tensor([133.4846], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  0  Iteration:  56
+tensor([155.9137], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.70%
+Epoch  0  Iteration:  57
+tensor([133.7690], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  58
+tensor([136.0425], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  59
+tensor([161.4838], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.48%
+Epoch  0  Iteration:  60
+tensor([141.4110], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.67%
+Epoch  0  Iteration:  61
+tensor([145.2562], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  0  Iteration:  62
+tensor([206.0053], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.13%
+Epoch  0  Iteration:  63
+tensor([117.2165], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  0  Iteration:  64
+tensor([163.0424], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.72%
+Epoch  0  Iteration:  65
+tensor([124.9323], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  0  Iteration:  66
+tensor([156.2863], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.33%
+Epoch  0  Iteration:  67
+tensor([147.1739], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 85.35%
+Epoch  0  Iteration:  68
+tensor([173.8888], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.72%
+Epoch  0  Iteration:  69
+tensor([131.8302], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.30%
+Epoch  0  Iteration:  70
+tensor([120.1674], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  0  Iteration:  71
+tensor([117.3357], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  0  Iteration:  72
+tensor([119.0168], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.91%
+Epoch  0  Iteration:  73
+tensor([142.6093], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.72%
+Epoch  0  Iteration:  74
+tensor([162.4655], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.67%
+Epoch  0  Iteration:  75
+tensor([131.1052], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  0  Iteration:  76
+tensor([90.3649], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  0  Iteration:  77
+tensor([102.6986], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.28%
+Epoch  0  Iteration:  78
+tensor([132.1818], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.50%
+Epoch  0  Iteration:  79
+tensor([122.7228], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  0  Iteration:  80
+tensor([116.0635], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.89%
+Epoch  0  Iteration:  81
+tensor([114.1249], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 86.91%
+Epoch  0  Iteration:  82
+tensor([124.0156], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  0  Iteration:  83
+tensor([98.1169], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  0  Iteration:  84
+tensor([122.8381], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.89%
+Epoch  0  Iteration:  85
+tensor([95.9575], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  0  Iteration:  86
+tensor([94.8004], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  0  Iteration:  87
+tensor([120.4585], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  0  Iteration:  88
+tensor([113.7614], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  0  Iteration:  89
+tensor([111.6640], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  0  Iteration:  90
+tensor([103.7793], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  0  Iteration:  91
+tensor([105.4182], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  0  Iteration:  92
+tensor([124.6752], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  93
+tensor([121.8896], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  0  Iteration:  94
+tensor([105.9463], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  0  Iteration:  95
+tensor([114.7529], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  0  Iteration:  96
+tensor([99.4282], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  0  Iteration:  97
+tensor([103.5947], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.70%
+Epoch  0  Iteration:  98
+tensor([136.5041], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  0  Iteration:  99
+tensor([100.7777], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  0  Iteration:  100
+tensor([97.9034], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  0  Iteration:  101
+tensor([133.7718], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.11%
+Epoch  0  Iteration:  102
+tensor([127.2955], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.70%
+Epoch  0  Iteration:  103
+tensor([86.9835], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  0  Iteration:  104
+tensor([97.6011], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  0  Iteration:  105
+tensor([125.3269], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  0  Iteration:  106
+tensor([110.4176], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.70%
+Epoch  0  Iteration:  107
+tensor([96.8432], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  0  Iteration:  108
+tensor([96.1378], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  0  Iteration:  109
+tensor([85.7840], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  0  Iteration:  110
+tensor([93.4345], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  0  Iteration:  111
+tensor([97.5359], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  0  Iteration:  112
+tensor([93.1177], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  0  Iteration:  113
+tensor([135.6275], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  0  Iteration:  114
+tensor([72.0582], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  0  Iteration:  115
+tensor([93.7009], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  0  Iteration:  116
+tensor([97.3424], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  117
+tensor([108.3442], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  118
+tensor([95.4974], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  119
+tensor([123.8592], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  1  Iteration:  120
+tensor([108.4689], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  121
+tensor([97.0812], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  122
+tensor([83.2219], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  1  Iteration:  123
+tensor([104.8136], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  1  Iteration:  124
+tensor([103.4609], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  1  Iteration:  125
+tensor([85.8247], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  1  Iteration:  126
+tensor([118.1896], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  127
+tensor([83.5722], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  128
+tensor([99.8700], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  129
+tensor([90.9419], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  130
+tensor([103.2673], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  131
+tensor([107.2885], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  1  Iteration:  132
+tensor([80.4901], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  1  Iteration:  133
+tensor([123.6568], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.28%
+Epoch  1  Iteration:  134
+tensor([76.6063], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.36%
+Epoch  1  Iteration:  135
+tensor([111.1712], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  1  Iteration:  136
+tensor([84.3514], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  1  Iteration:  137
+tensor([104.7632], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  138
+tensor([73.1238], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  139
+tensor([81.5996], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  1  Iteration:  140
+tensor([139.0875], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  141
+tensor([124.4068], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  142
+tensor([77.7037], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  1  Iteration:  143
+tensor([88.8432], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  144
+tensor([114.5732], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  1  Iteration:  145
+tensor([100.0596], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  146
+tensor([81.2594], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  147
+tensor([115.9821], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  1  Iteration:  148
+tensor([103.2061], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  149
+tensor([117.9307], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  1  Iteration:  150
+tensor([79.7678], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  151
+tensor([116.4871], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  1  Iteration:  152
+tensor([101.1396], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  1  Iteration:  153
+tensor([96.2326], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  154
+tensor([126.5910], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 87.50%
+Epoch  1  Iteration:  155
+tensor([95.3760], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  156
+tensor([87.7838], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  1  Iteration:  157
+tensor([87.9288], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  1  Iteration:  158
+tensor([77.0967], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  159
+tensor([96.4018], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  160
+tensor([72.1830], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  1  Iteration:  161
+tensor([108.2854], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.36%
+Epoch  1  Iteration:  162
+tensor([140.1262], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  1  Iteration:  163
+tensor([112.7007], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  164
+tensor([111.5437], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  165
+tensor([122.2013], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.48%
+Epoch  1  Iteration:  166
+tensor([113.4800], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  1  Iteration:  167
+tensor([82.6595], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  168
+tensor([118.9869], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  1  Iteration:  169
+tensor([96.2740], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  1  Iteration:  170
+tensor([108.7811], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  1  Iteration:  171
+tensor([150.7578], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  1  Iteration:  172
+tensor([113.9430], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  173
+tensor([136.3098], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  1  Iteration:  174
+tensor([103.0373], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  175
+tensor([121.4664], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  1  Iteration:  176
+tensor([104.7498], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  177
+tensor([62.2905], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.16%
+Epoch  1  Iteration:  178
+tensor([106.0620], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  1  Iteration:  179
+tensor([111.2384], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  180
+tensor([101.4480], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  181
+tensor([101.3620], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  182
+tensor([125.4527], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  183
+tensor([75.1839], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  1  Iteration:  184
+tensor([82.7753], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  185
+tensor([91.4820], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  186
+tensor([106.4854], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  187
+tensor([78.9847], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  1  Iteration:  188
+tensor([113.2862], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  189
+tensor([137.0478], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.09%
+Epoch  1  Iteration:  190
+tensor([83.4006], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  191
+tensor([100.3330], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  192
+tensor([94.6523], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  193
+tensor([126.5617], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.28%
+Epoch  1  Iteration:  194
+tensor([105.7255], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  195
+tensor([106.1046], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  196
+tensor([108.5381], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  1  Iteration:  197
+tensor([142.3809], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  1  Iteration:  198
+tensor([76.7265], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 94.14%
+Epoch  1  Iteration:  199
+tensor([127.7424], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  200
+tensor([84.1883], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  201
+tensor([94.5658], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  1  Iteration:  202
+tensor([90.1208], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  1  Iteration:  203
+tensor([98.8692], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  1  Iteration:  204
+tensor([67.1159], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.36%
+Epoch  1  Iteration:  205
+tensor([121.8527], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  1  Iteration:  206
+tensor([103.9955], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  1  Iteration:  207
+tensor([118.3019], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  1  Iteration:  208
+tensor([91.4584], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  209
+tensor([83.3796], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  1  Iteration:  210
+tensor([86.4366], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  211
+tensor([85.1517], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  1  Iteration:  212
+tensor([89.8754], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  213
+tensor([113.7651], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  1  Iteration:  214
+tensor([131.5284], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  1  Iteration:  215
+tensor([134.5689], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  1  Iteration:  216
+tensor([92.7741], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  1  Iteration:  217
+tensor([81.4525], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  218
+tensor([93.8892], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  219
+tensor([115.7472], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  220
+tensor([119.4060], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  1  Iteration:  221
+tensor([113.1481], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  1  Iteration:  222
+tensor([91.9307], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  223
+tensor([104.3396], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  1  Iteration:  224
+tensor([84.8200], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  1  Iteration:  225
+tensor([116.7276], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  1  Iteration:  226
+tensor([108.7428], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  1  Iteration:  227
+tensor([89.2813], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  1  Iteration:  228
+tensor([73.8977], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  1  Iteration:  229
+tensor([120.5220], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  1  Iteration:  230
+tensor([81.2554], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  231
+tensor([99.1248], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  1  Iteration:  232
+tensor([107.6407], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  1  Iteration:  233
+tensor([110.0860], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  234
+tensor([73.7829], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.16%
+Epoch  2  Iteration:  235
+tensor([125.1788], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  236
+tensor([106.6832], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  237
+tensor([100.1962], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.36%
+Epoch  2  Iteration:  238
+tensor([85.7658], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.16%
+Epoch  2  Iteration:  239
+tensor([97.0637], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  240
+tensor([114.0179], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  241
+tensor([82.8540], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  242
+tensor([104.9246], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  243
+tensor([99.3151], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  244
+tensor([86.4036], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  245
+tensor([72.0677], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  2  Iteration:  246
+tensor([96.9204], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.16%
+Epoch  2  Iteration:  247
+tensor([87.6750], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  248
+tensor([118.1709], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  2  Iteration:  249
+tensor([90.3279], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  250
+tensor([81.7387], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  251
+tensor([88.9599], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  252
+tensor([139.6555], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  2  Iteration:  253
+tensor([85.9493], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  254
+tensor([88.7242], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  2  Iteration:  255
+tensor([95.2137], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  256
+tensor([96.6694], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  257
+tensor([120.2200], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  258
+tensor([79.0563], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  259
+tensor([86.8932], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  260
+tensor([85.6594], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  2  Iteration:  261
+tensor([112.8870], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  262
+tensor([160.3533], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.48%
+Epoch  2  Iteration:  263
+tensor([96.6884], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  264
+tensor([125.3521], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  2  Iteration:  265
+tensor([100.9253], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  2  Iteration:  266
+tensor([115.3585], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  267
+tensor([100.6148], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  268
+tensor([97.1699], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  269
+tensor([84.5570], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  270
+tensor([139.7662], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.84%
+Epoch  2  Iteration:  271
+tensor([97.9601], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  272
+tensor([94.1171], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  273
+tensor([117.0009], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  274
+tensor([110.1326], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.67%
+Epoch  2  Iteration:  275
+tensor([112.6916], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  2  Iteration:  276
+tensor([84.6166], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  277
+tensor([94.3768], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  278
+tensor([86.4772], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  279
+tensor([79.6525], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  280
+tensor([102.8295], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  281
+tensor([86.1160], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  282
+tensor([66.5467], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  283
+tensor([95.8118], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  2  Iteration:  284
+tensor([92.2235], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  2  Iteration:  285
+tensor([113.2553], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  2  Iteration:  286
+tensor([108.8745], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  287
+tensor([98.6256], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  288
+tensor([117.0126], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.06%
+Epoch  2  Iteration:  289
+tensor([96.2491], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  2  Iteration:  290
+tensor([115.1899], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  2  Iteration:  291
+tensor([80.8478], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  2  Iteration:  292
+tensor([77.1152], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  293
+tensor([53.3468], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.16%
+Epoch  2  Iteration:  294
+tensor([87.2247], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  295
+tensor([116.8313], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.67%
+Epoch  2  Iteration:  296
+tensor([119.1208], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  297
+tensor([74.9181], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  298
+tensor([71.6890], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  299
+tensor([84.8371], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  300
+tensor([83.6881], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  2  Iteration:  301
+tensor([82.1988], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  302
+tensor([111.9839], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  303
+tensor([71.7146], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  2  Iteration:  304
+tensor([111.0397], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.26%
+Epoch  2  Iteration:  305
+tensor([130.4567], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  2  Iteration:  306
+tensor([111.1155], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  307
+tensor([113.8750], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  308
+tensor([85.3861], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  309
+tensor([84.8589], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  2  Iteration:  310
+tensor([75.0774], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  2  Iteration:  311
+tensor([115.9532], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  312
+tensor([121.4235], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.45%
+Epoch  2  Iteration:  313
+tensor([106.0577], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  314
+tensor([96.5266], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  315
+tensor([91.5442], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.97%
+Epoch  2  Iteration:  316
+tensor([97.0492], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.04%
+Epoch  2  Iteration:  317
+tensor([70.0357], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.43%
+Epoch  2  Iteration:  318
+tensor([102.9967], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  319
+tensor([96.7364], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  320
+tensor([68.2740], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  321
+tensor([86.9591], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  322
+tensor([114.7367], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.80%
+Epoch  2  Iteration:  323
+tensor([90.5269], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  324
+tensor([123.0434], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  325
+tensor([76.0327], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 88.87%
+Epoch  2  Iteration:  326
+tensor([71.1015], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.38%
+Epoch  2  Iteration:  327
+tensor([81.4177], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  328
+tensor([90.3977], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  329
+tensor([88.9438], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  330
+tensor([79.7748], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.82%
+Epoch  2  Iteration:  331
+tensor([109.4381], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  332
+tensor([75.0463], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  333
+tensor([77.8619], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  334
+tensor([72.8967], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  335
+tensor([84.8539], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  336
+tensor([79.1198], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.41%
+Epoch  2  Iteration:  337
+tensor([70.2289], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.02%
+Epoch  2  Iteration:  338
+tensor([84.6958], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.60%
+Epoch  2  Iteration:  339
+tensor([75.9454], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  2  Iteration:  340
+tensor([77.6044], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.99%
+Epoch  2  Iteration:  341
+tensor([77.0401], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.23%
+Epoch  2  Iteration:  342
+tensor([43.6755], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.97%
+Epoch  2  Iteration:  343
+tensor([67.2891], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 93.55%
+Epoch  2  Iteration:  344
+tensor([106.4115], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 90.62%
+Epoch  2  Iteration:  345
+tensor([85.9099], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 89.65%
+Epoch  2  Iteration:  346
+tensor([70.4461], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.58%
+Epoch  2  Iteration:  347
+tensor([103.2704], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.77%
+Epoch  2  Iteration:  348
+tensor([94.9088], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 91.21%
+Epoch  2  Iteration:  349
+tensor([67.1395], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
+Epoch  2  Iteration:  350
+tensor([87.4014], device='cuda:0', grad_fn=<AddBackward0>)
+Train set accuracy for a single minibatch: 92.19%
