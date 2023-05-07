@@ -3,4 +3,10 @@ data/*
 *.eps
 *.png
 *.mp4
+*.pt
 
+!data/*.csv
+
+# Files
+notebooks/Rate-Coding.ipynb
+notebooks/Residual.ipynb
