@@ -1,6 +1,6 @@
 Codice utilizzato nella mia tesi di laurea triennale.
 
-Implementazione e addestramento di un semplice modello di rete neurale spiking con snnTorch and Rockpool per la classificazione dei datasets MNIST e Fashion-MNIST
+Implementazione e addestramento di un semplice modello di rete neurale spiking con snnTorch e Rockpool per la classificazione dei datasets MNIST e Fashion-MNIST
 
 Code used for my bachelor thesis project.
 
